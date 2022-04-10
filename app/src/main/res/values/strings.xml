@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Coffee Corner</string>
     <string name="quantity">quantity</string>
-    <string name="quantityValue">0</string>
+    <string name="quantityValue">1</string>
     <string name="order">order</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
